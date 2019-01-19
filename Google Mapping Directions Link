@@ -1,0 +1,7 @@
+I came across the below snippet online, last year.
+
+Add it to Events Manager Settings:
+
+Formatting > Location > Single Location Page > Single location page format
+
+<a href="https://www.google.com/maps/place/#_LOCATIONADDRESS, #_LOCATIONTOWN, #_LOCATIONSTATE, #_LOCATIONPOSTCODE" target="_new" >Google Mapping</a><br/>
